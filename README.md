@@ -7,9 +7,9 @@
 
 
 ## My Development Setup:
-- 🖥️ OS : Arch Linux (with [AwesomeWM](https://awesomewm.org/))
-- 🌐 Browser : Firefox Development Edition (with [ShyFox](https://github.com/Naezr/ShyFox) theme)
-- 🌍 Programming languages I use : C/C++, Lua, JavaScript (for Web Development).
+- 🖥️ OS : [Arch Linux](https://archlinux.org/) (with [AwesomeWM](https://awesomewm.org/))
+- 🌐 Browser : [Zen Browser](https://zen-browser.app)
+- 🌍 Programming languages I use : C/C++, Python, Lua, JavaScript (for Web Development).
 - 📝 Code editors I use : Sublime Text, VS Code (mostly for Web Development)
 
 <!---
